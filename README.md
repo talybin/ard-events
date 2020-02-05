@@ -88,6 +88,5 @@ Documentation can be generated with [Doxygen](http://doxygen.nl/). Doxyfile incl
 
 ## LICENSE
 
-Copyright 2020 Vladimir Talybin
+Licensed under the MIT license.
 
-Licensed under the <insert your choice of license here> license
